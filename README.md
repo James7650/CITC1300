@@ -1,7 +1,7 @@
 <h1>Basic Web Design</h1>
 
 <ul>
-    <li><a href="lab1/index.html">Lab1</a></li>
+    <li><a href="lab1/index.html" target="_blank">Lab1</a></li>
 </ul>
 
 <ul>
