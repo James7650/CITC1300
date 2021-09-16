@@ -1,6 +1,8 @@
 /* Global Styles */
+
 body {
-    background-color: #240840;
+    background-color: #11594C;
+    font-family: 'Roboto', sans-serif;
 }
 
 img {
@@ -11,20 +13,21 @@ img {
 
 /* Mobile Styles */
 #container {
-    background-color: #F2F2F2;
+    background-color: #468568;
     margin: 10px;
 }
 
 header {
-    background-image: url('../images/gcourse1.jpg');
+    background-image: url('../images/Tower.jpeg');
     background-size: cover;
     padding: 70px 0;
 }
 
 header h1 {
-    color: #A072BE;
+    color: #69A281;
     text-shadow: 2px 2px 2px #000;
     text-align: center;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 nav ul {
@@ -38,8 +41,8 @@ nav li {
 
 nav li a {
     display: block;
-    background-color:#240840;
-    color:#A072BE;
+    background-color:#11594C;
+    color:#69A281;
     height: 40px;
     line-height: 40px;
     text-align: center;
@@ -47,26 +50,27 @@ nav li a {
     font-size: 1.2em;
     margin: 10px 0;
     border-radius: 10px;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 nav li a:hover {
-    background-color: #F2F2F2;
+    background-color: #468568;
     text-shadow: 2px 2px 2px #000;
 }
 
 nav, section, aside, .col, footer {
-    background-color: #A072BE;
+    background-color: #69A281;
     padding: 20px;
     margin: 10px;
-    border: 4px solid #240840;
+    border: 4px solid #11594C;
     border-radius: 10px;
 }
 
 h2, h3 {
-    color: #240840;
-    text-shadow: 2px 2px 2px #000;
+    color: #11594C;
     font-size: 1.5em;
     text-align: center;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 section img, aside img {
@@ -75,8 +79,8 @@ section img, aside img {
 
 .button {
     display: block;
-    background-color:#240840;
-    color:#A072BE;
+    background-color:#11594C;
+    color:#69A281;
     height: 40px;
     width: 200px;
     line-height: 40px;
@@ -88,18 +92,19 @@ section img, aside img {
 }
 
 .button:hover {
-    background-color: #F2F2F2;
+    background-color: #468568;
     text-shadow: 2px 2px 2px #000;
 }
 
 footer {
     text-align: center;
-    color: #240840;
-
+    color: #11594C;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 .single_col {
     width: 83%;
+    text-align: center;
 }
 
 audio, video {
@@ -109,7 +114,7 @@ audio, video {
 }
 
 .gallery_img {
-    border: 4px solid #240840;
+    border: 4px solid #11594C;
     border-radius: 10px;
     margin: 10px auto;
 }
@@ -158,7 +163,7 @@ table {
     .col img {
         width: 60%;
         border-radius: 10px;
-        border: 4px solid #240840;
+        border: 4px solid #11594C;
     }
 }
 
@@ -172,7 +177,7 @@ table {
     #container {
         width: 75%;
         margin: 20px auto;
-        border: 4px solid #A072BE;
+        border: 4px solid #69A281;
         border-radius: 20px;
     }
 
@@ -201,7 +206,7 @@ table {
     }
 
     table, tr, td {
-        border: 4px solid #240840;
+        border: 4px solid #11594C;
         padding: 10px;
         margin: 10px;
     }
