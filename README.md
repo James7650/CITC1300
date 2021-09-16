@@ -11,3 +11,7 @@
 <ul>
     <li><a href="lab3/index.html" target="_blank">Lab3</a></li>
 </ul>
+
+<ul>
+    <li><a href="lab4/index.html" target="_blank">Lab4</a></li>
+</ul>
